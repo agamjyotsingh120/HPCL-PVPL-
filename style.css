@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(to right ,#12c2e9,#c471ed,#f64f59);
+    background:linear-gradient(to left,#7585db ,#005AA7);
     text-align:center;
     height:100%;
     width:100%;
@@ -57,4 +57,17 @@ margin-left:25%;
         
     }
 
-  
+      .jkl{
+       
+     position:relative;
+     display:inline-block;
+        font-family:Playfair Display;
+      }
+      .jkl1{
+        position: relative;
+        display:inline-block;
+           font-family:Playfair Display;
+           margin-left:220px;
+     
+      }
+      
